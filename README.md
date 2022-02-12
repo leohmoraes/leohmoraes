@@ -2,10 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with two projects: App with Flutter and with my system to realstate mardejurere.com
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Arduino
-- 🤔 I’m looking for help with Flutter, Serverless function with Python
+- 🔭 Look this last projects: https://github.com/estudos-2022/crud-laravel8-app/
+     Made in PHP with Laravel 8, using TDD, Github Actions e finish com CI/CD to Azure. I am using all features of GitHub: Organization, Teams, Projects, Pull Requests (PR), Tasks/Kanbam, Issues, Workflow, Wiki, Discussions Security.
+
+- 🔭 I’m currently working in my system to realstate mardejurere.com
+- 🌱 I’m currently learning more NodeJs, TS, Flutter
 - 💬 Ask me about all, I like to much learn
 - 📫 How to reach me: https://linkedin.com/in/leohmoraes
 
